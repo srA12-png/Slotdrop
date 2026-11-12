@@ -42,7 +42,7 @@ SlotDrop is the **scheduled last-100-meters concierge** for high-rise gated comm
 ---
 
 ## 4. How to Run the Demo for Judges
-1. Open your browser to: **`http://localhost:5173`**
+1. Open your browser to: **`https://slotdrop-exif.onrender.com`**
 2. Use the top navigation bar to walk through the 4-act demo:
    - **Act 1: Resident App** — Show 3 vaulted parcels from Amazon, Myntra, BlueDart. Select **Tonight 8:00 PM - 9:00 PM** and tap **Schedule Consolidated Drop**. Show the generated OTP (`4829`) and celebration effect.
    - **Act 2: Society Intake** — Click simulated scan buttons for Amazon/Flipkart to show how guards log incoming couriers into digital bins in 1 tap without calling flats.
